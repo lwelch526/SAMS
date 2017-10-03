@@ -8,4 +8,5 @@ To create a new folder:
 2. click on New file.
 3. on the text field for the file name, first write the folder name you want to create.
 4. then type / , this creates a folder.
-5. you can add more folders similarly.
+5. add some file, preferably a README.md
+6. you can add more folders similarly.
